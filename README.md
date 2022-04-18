@@ -3,7 +3,6 @@ This repository basicall contains my project files required to deploy a **Machin
 
 ##Lists
 unordered
-@
 *now
 
 
